@@ -48,3 +48,10 @@ nav ul li a{
 }
 
 
+.imgblock img{
+    height:100vh;
+    width: 100%;
+    background-size: cover;
+}
+
+
